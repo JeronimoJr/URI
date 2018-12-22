@@ -1,0 +1,3 @@
+for(int i = 0; i < codigos.size(); i++){
+        aux.push_back(codigos[i]);
+    }

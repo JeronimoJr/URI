@@ -1,0 +1,27 @@
+ENTRADA1
+7
+Charmander
+Caterpie
+Pidgeot
+Rattata
+Zubat
+Zubat
+Zubat
+
+
+ENTRADA 2
+8
+Zubat
+Zubat
+Zubat
+Zubat
+Zubat
+Zubat
+Zubat
+Zubat
+
+SAIDA 1
+Falta(m) 146 pomekon(s).
+
+SAIDA 2
+Falta(m) 150 pomekon(s).

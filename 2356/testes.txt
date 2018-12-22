@@ -1,0 +1,22 @@
+ENTRADA 1
+ACGTC
+CGT
+ENTRADA 2
+CCCT
+AG
+
+SAIDA 1
+Resistente
+SAIDA 2
+Nao resistente
+
+ACGTC
+GC
+ACGTC
+CG
+ACGTC
+GTC
+
+Nao resistente
+Resistente
+Resistente
