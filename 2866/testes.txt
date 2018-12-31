@@ -1,0 +1,10 @@
+ENTRADA
+3
+NoTApasCAL
+atEQUEatabELATERMINE
+zoEIrrRRRRa
+
+SAÍDA
+sapo
+batata
+arroz

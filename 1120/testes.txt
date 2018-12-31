@@ -1,0 +1,18 @@
+ENTRADA
+5 5000000
+3 123456
+9 23454324543423
+9 99999999991999999
+7 777
+0 0
+
+SAÍDA
+0
+12456
+23454324543423
+1
+0
+
+string para inteiro
+istringstream(aux) >> number;
+            cout << number << endl;

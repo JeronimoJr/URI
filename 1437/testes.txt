@@ -1,0 +1,10 @@
+ENTRADA
+3
+DDE
+2
+EE
+0
+
+SAÍDA
+L
+S

@@ -1,0 +1,32 @@
+ENTRADA
+5 1
+maria
+joao
+carlos
+vanessa
+jose
+
+SAÍDA
+carlos
+
+ENTRADA
+5 5
+maria
+joao
+carlos
+vanessa
+jose
+
+SAÍDA
+vanessa
+
+ENTRADA
+5 3
+maria
+joao
+carlos
+vanessa
+jose
+
+SAÍDA
+jose

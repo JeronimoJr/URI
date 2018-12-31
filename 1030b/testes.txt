@@ -1,0 +1,10 @@
+ENTRADA
+3
+5 2
+6 3
+1234 233
+
+SAÍDA
+Case 1: 3
+Case 2: 1
+Case 3: 25

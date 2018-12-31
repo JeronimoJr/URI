@@ -1,0 +1,10 @@
+ENTRADA
+3
+4
+8
+-1
+
+SAÍDA
+Experiment 1: 1 full cycle(s)
+Experiment 2: 2 full cycle(s)
+Experiment 3: 4 full cycle(s)

@@ -1,0 +1,27 @@
+30 30
+minguante
+21 43
+crescente
+95 96
+crescente
+30 35
+crescente
+97 3
+minguante
+0 7
+crescente
+3 2
+nova
+4 3
+minguante
+0 93
+crescente
+93 0
+nova
+95 97
+cheia
+2 3 
+crescente
+96 97
+cheia
+
